@@ -54,6 +54,9 @@ CAVEATS
     it a non-quick action). Quick actions may be supported in a future
     release.
 
+  Not all pages where you can change status are supported
+    The ticket Basics page, for example. See "TODO" for others.
+
 INSTALLATION
     perl Makefile.PL
     make

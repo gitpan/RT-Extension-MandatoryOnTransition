@@ -16,9 +16,9 @@ Hash: SHA1
 
 SHA1 3b4a6d744310ed03b791b3f30355bba1442f0c17 MANIFEST
 SHA1 f32387e1e74e3a8c133254eda0b6ba77d6897089 MANIFEST.SKIP
-SHA1 8fcb4d1e0783622c9cf5c28f6d33656a6c315a0f META.yml
+SHA1 5beefd876980f9f76cb36dbe69eea5c4eaff84b0 META.yml
 SHA1 04411c8fcc858307ce46eb1aed3f30c4043004b2 Makefile.PL
-SHA1 91242ca5c256f7bd792109cbfe539c10c66da005 README
+SHA1 1b450a83c525634cb5400e7972c0b47e8852ebd7 README
 SHA1 cfc49e70a2f8a1391ba276a8d72a1c97612c6b12 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Create.html/BeforeCreate
 SHA1 b719a142ae7669f9e2a51fecce16caf34378ce08 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Elements/EditCustomFields/MassageCustomFields
 SHA1 7fc6c01fea69cf397a2eb1d1e103c492b268d436 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Update.html/AfterWorked
@@ -37,7 +37,7 @@ SHA1 dc94326a076aca41452c1d65bf52a255feeb9ef7 inc/Module/Install/ReadmeFromPod.p
 SHA1 13c903897bad7f0fdd7871a4a0182ff62dfbefd5 inc/Module/Install/Substitute.pm
 SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
 SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
-SHA1 062774d434f95ba9333989a8a5de172ab096fd56 lib/RT/Extension/MandatoryOnTransition.pm
+SHA1 682d6b499a0032b8f49a0dc2004e3fe563e83637 lib/RT/Extension/MandatoryOnTransition.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm.in
 SHA1 c5c56dcb5f43dcb6b6a8832946c50644393cea01 patches/4.0.8-additional-mobile-callbacks-plus-style.diff
@@ -47,7 +47,7 @@ SHA1 82f5de13725e2bafe1fd699c7e74bfb59606d463 xt/required_fields.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iD8DBQFRLl4IHdv9ZfNcOAcRAprTAKCWSslRoiEBoOF1tAGXlPy1BuXp2wCgmqS1
-Bf/6Qkz5D92EY0MDFgFwRrA=
-=OiwY
+iD8DBQFRUhbhHdv9ZfNcOAcRAqJoAKCRn0evQwIvx/N9NbFDLtPALyY+uwCeMoBU
+/Zsp90Hhv4NtaGV1zXxsxZw=
+=qYtk
 -----END PGP SIGNATURE-----

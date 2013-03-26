@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package RT::Extension::MandatoryOnTransition;
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 =head1 NAME
 
@@ -69,6 +69,10 @@ If you're requiring fields on resolve, for example, and don't want folks to
 have a "Quick Resolve" button that skips the required fields, adjust your
 lifecycle config to provide an update type (i.e make it a non-quick action).
 Quick actions may be supported in a future release.
+
+=head2 Not all pages where you can change status are supported
+
+The ticket Basics page, for example.  See L</TODO> for others.
 
 =head1 INSTALLATION
 
