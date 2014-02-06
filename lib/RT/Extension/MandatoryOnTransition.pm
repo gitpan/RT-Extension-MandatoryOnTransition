@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package RT::Extension::MandatoryOnTransition;
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 =head1 NAME
 
@@ -355,6 +355,8 @@ sub CheckMandatoryFields {
           $CurrentUser->loc("[_1] is required when changing Status to [_2]",
                                      $label, $ARGSRef->{Status});
     }
+
+    return \@errors unless @$cfs;
 
     if ( not $CFs ){
         $RT::Logger->error("Custom Fields object required to process mandatory custom fields");
