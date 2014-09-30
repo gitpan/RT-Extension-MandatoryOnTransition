@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 c28307f38418a043b66e54c16d01da8a1f0ed8fc Changes
-SHA1 d7e5708228c57f364edccff9c3ebcb2db4e7a670 MANIFEST
+SHA1 93b37e89e262760aa10d13111681ce975df80895 Changes
+SHA1 6a38efe1a3df1b302d5786dd821d370dd48430be MANIFEST
 SHA1 f32387e1e74e3a8c133254eda0b6ba77d6897089 MANIFEST.SKIP
-SHA1 3185c11bca1ecd3475d8a4c91d2ae96e0e9048c6 META.yml
+SHA1 aea964819f95b3c39bc1805fc7ea8d66e3a2676c META.yml
 SHA1 e7cafa669e726d74b7b356c5dd65d36c507a68cf Makefile.PL
 SHA1 506627fbc28c580621cd3fa6d7e34186c4d0786b README
 SHA1 cfc49e70a2f8a1391ba276a8d72a1c97612c6b12 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Create.html/BeforeCreate
@@ -42,7 +42,7 @@ SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
 SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
 SHA1 4e09b598c2626e08cec2bed5e981492fa9e90967 inc/YAML/Tiny.pm
 SHA1 034d0f3a7401dae4be3eee279258181f51a4ad81 inc/unicore/Name.pm
-SHA1 bd8613a4bbd1c1e771f824a2619fc96d774addd1 lib/RT/Extension/MandatoryOnTransition.pm
+SHA1 8b239df40878ec002be5ba95a84b55f007c7df88 lib/RT/Extension/MandatoryOnTransition.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm.in
 SHA1 bb2774b00e9d7cc076d832f038f836c8c50372b6 xt/basic.t
@@ -51,7 +51,7 @@ SHA1 82f5de13725e2bafe1fd699c7e74bfb59606d463 xt/required_fields.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iEYEARECAAYFAlQrLUoACgkQMflWJZZAbqDkVQCeOcjLF2zUFU+mOsMJyTxfX2I2
-tNEAn2wzuqf2ahjES2YFyvctdMGs10xH
-=eSBs
+iEYEARECAAYFAlQrLd4ACgkQMflWJZZAbqBDCACggCSCkK8bNfEiL/Yq7+83IEUA
+XDcAnjpk5w2gbYt1s6GRXk66PXX+OXJS
+=gdFz
 -----END PGP SIGNATURE-----
