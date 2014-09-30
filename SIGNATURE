@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.69.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,41 +14,40 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 23989afe5766bfa10eee28a71e69d29de94fc418 Changes
+SHA1 5109903061dde9c48c0182fbced9926ef6fb12ed Changes
 SHA1 ebe496d55e7fba914a8f1385e5ad05ce113223a2 MANIFEST
 SHA1 f32387e1e74e3a8c133254eda0b6ba77d6897089 MANIFEST.SKIP
-SHA1 94dcc92544ee04fad7970fefd46827d0f240b9aa META.yml
-SHA1 d08b0081fcbc541f7be193df154d84f7e1d2e647 Makefile.PL
-SHA1 1b450a83c525634cb5400e7972c0b47e8852ebd7 README
+SHA1 7873e8cfcc356077d0fffea48815918af15ca336 META.yml
+SHA1 e7cafa669e726d74b7b356c5dd65d36c507a68cf Makefile.PL
+SHA1 506627fbc28c580621cd3fa6d7e34186c4d0786b README
 SHA1 cfc49e70a2f8a1391ba276a8d72a1c97612c6b12 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Create.html/BeforeCreate
 SHA1 b719a142ae7669f9e2a51fecce16caf34378ce08 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Elements/EditCustomFields/MassageCustomFields
-SHA1 7fc6c01fea69cf397a2eb1d1e103c492b268d436 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Update.html/AfterWorked
+SHA1 3567d968ecc6b89cc0d37065da94c2299429181d html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Update.html/AfterWorked
 SHA1 ff1c9ac58e468e981e6bca17a5c1096059044d6d html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Update.html/BeforeUpdate
 SHA1 cfc49e70a2f8a1391ba276a8d72a1c97612c6b12 html/Callbacks/RT-Extension-MandatoryOnTransition/m/ticket/create/BeforeCreate
-SHA1 e7913e82aa99b19a772523ffaf02f3c10b3054db html/Callbacks/RT-Extension-MandatoryOnTransition/m/ticket/reply/AfterWorked
+SHA1 4bc234489b00486c5fc5467641aa2cb4dbdda9e5 html/Callbacks/RT-Extension-MandatoryOnTransition/m/ticket/reply/AfterWorked
 SHA1 ff1c9ac58e468e981e6bca17a5c1096059044d6d html/Callbacks/RT-Extension-MandatoryOnTransition/m/ticket/reply/BeforeUpdate
-SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
-SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
-SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
-SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
-SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
-SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
-SHA1 40df6f8d889b52eef379f04af6227f9302b23bf9 inc/Module/Install/RTx.pm
+SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
+SHA1 cab0e564f9bdf658535f683aa197157e06d0dcea inc/Module/Install/Base.pm
+SHA1 a1559b5b3b40f68efbbd256f4fef85970891b3ae inc/Module/Install/Can.pm
+SHA1 f15c1ba85f6d52e70c48c64bf0752c90a4ad66f9 inc/Module/Install/Fetch.pm
+SHA1 eb48df8bafd07c6a862126d9b274df42b4395742 inc/Module/Install/Makefile.pm
+SHA1 95c73873c6c3cb7024614c225c53863e1e90c134 inc/Module/Install/Metadata.pm
+SHA1 6e010ba20a9d0ae23d8d0ff516868c1e571c2d44 inc/Module/Install/RTx.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 13c903897bad7f0fdd7871a4a0182ff62dfbefd5 inc/Module/Install/Substitute.pm
-SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
-SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
-SHA1 340e08acfb5844956e8c23cbe41d4a430fb726fa lib/RT/Extension/MandatoryOnTransition.pm
+SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
+SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
+SHA1 122e01f862115f33f9f99d9156c2a2170644d4ea lib/RT/Extension/MandatoryOnTransition.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm.in
-SHA1 c5c56dcb5f43dcb6b6a8832946c50644393cea01 patches/4.0.8-additional-mobile-callbacks-plus-style.diff
-SHA1 1935dba7232b453409f94e1e720ea80a7f1182f7 xt/basic.t
+SHA1 bb2774b00e9d7cc076d832f038f836c8c50372b6 xt/basic.t
 SHA1 6b4fd6c5364d77e45851145ce32df18c498bb9e8 xt/mandatory_on_create.t
 SHA1 82f5de13725e2bafe1fd699c7e74bfb59606d463 xt/required_fields.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.11 (GNU/Linux)
+Version: GnuPG v1
 
-iEYEARECAAYFAlLz7o4ACgkQMflWJZZAbqAPywCeKKZVFBsng41cqPT2vUR6xCB9
-sWYAn2NF4aOjBNFvjVbl9MGIrrbWY7op
-=yPOg
+iEYEARECAAYFAlQrJiUACgkQMflWJZZAbqClOQCgkQqbCekxuwpaamc6TYmfrIrc
+UXYAn2R5vC2MWLf9phGBFfbqe68LVrmi
+=pXhC
 -----END PGP SIGNATURE-----
