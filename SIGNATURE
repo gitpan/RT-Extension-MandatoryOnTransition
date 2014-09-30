@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 5109903061dde9c48c0182fbced9926ef6fb12ed Changes
-SHA1 ebe496d55e7fba914a8f1385e5ad05ce113223a2 MANIFEST
+SHA1 c28307f38418a043b66e54c16d01da8a1f0ed8fc Changes
+SHA1 d7e5708228c57f364edccff9c3ebcb2db4e7a670 MANIFEST
 SHA1 f32387e1e74e3a8c133254eda0b6ba77d6897089 MANIFEST.SKIP
-SHA1 7873e8cfcc356077d0fffea48815918af15ca336 META.yml
+SHA1 3185c11bca1ecd3475d8a4c91d2ae96e0e9048c6 META.yml
 SHA1 e7cafa669e726d74b7b356c5dd65d36c507a68cf Makefile.PL
 SHA1 506627fbc28c580621cd3fa6d7e34186c4d0786b README
 SHA1 cfc49e70a2f8a1391ba276a8d72a1c97612c6b12 html/Callbacks/RT-Extension-MandatoryOnTransition/Ticket/Create.html/BeforeCreate
@@ -31,14 +31,18 @@ SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
 SHA1 cab0e564f9bdf658535f683aa197157e06d0dcea inc/Module/Install/Base.pm
 SHA1 a1559b5b3b40f68efbbd256f4fef85970891b3ae inc/Module/Install/Can.pm
 SHA1 f15c1ba85f6d52e70c48c64bf0752c90a4ad66f9 inc/Module/Install/Fetch.pm
+SHA1 d44d96acd20793306dd201030c688e2a7d3083ee inc/Module/Install/Include.pm
 SHA1 eb48df8bafd07c6a862126d9b274df42b4395742 inc/Module/Install/Makefile.pm
 SHA1 95c73873c6c3cb7024614c225c53863e1e90c134 inc/Module/Install/Metadata.pm
 SHA1 6e010ba20a9d0ae23d8d0ff516868c1e571c2d44 inc/Module/Install/RTx.pm
+SHA1 3fdf4c0cffdb1a2e23e5cd26bf95be553f1f9590 inc/Module/Install/RTx/Runtime.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
 SHA1 13c903897bad7f0fdd7871a4a0182ff62dfbefd5 inc/Module/Install/Substitute.pm
 SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
 SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
-SHA1 122e01f862115f33f9f99d9156c2a2170644d4ea lib/RT/Extension/MandatoryOnTransition.pm
+SHA1 4e09b598c2626e08cec2bed5e981492fa9e90967 inc/YAML/Tiny.pm
+SHA1 034d0f3a7401dae4be3eee279258181f51a4ad81 inc/unicore/Name.pm
+SHA1 bd8613a4bbd1c1e771f824a2619fc96d774addd1 lib/RT/Extension/MandatoryOnTransition.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm
 SHA1 690cc23eacb57b31acec813e9d8cab4ac909a83a lib/RT/Extension/MandatoryOnTransition/Test.pm.in
 SHA1 bb2774b00e9d7cc076d832f038f836c8c50372b6 xt/basic.t
@@ -47,7 +51,7 @@ SHA1 82f5de13725e2bafe1fd699c7e74bfb59606d463 xt/required_fields.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1
 
-iEYEARECAAYFAlQrJiUACgkQMflWJZZAbqClOQCgkQqbCekxuwpaamc6TYmfrIrc
-UXYAn2R5vC2MWLf9phGBFfbqe68LVrmi
-=pXhC
+iEYEARECAAYFAlQrLUoACgkQMflWJZZAbqDkVQCeOcjLF2zUFU+mOsMJyTxfX2I2
+tNEAn2wzuqf2ahjES2YFyvctdMGs10xH
+=eSBs
 -----END PGP SIGNATURE-----
